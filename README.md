@@ -1,1 +1,1 @@
-# digameco.github.io
+# digameco
